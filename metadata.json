@@ -1,0 +1,6 @@
+{
+  "name": "Viking Barber - Barbearia Clássica & Premium",
+  "description": "Landing page de alto padrão para a Viking Barber. Estilo rústico, clássico e moderno com agendamento online e serviços exclusivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
